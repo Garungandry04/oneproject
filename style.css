@@ -1,0 +1,68 @@
+nav {
+  border: solid transparent;
+  background-color: #bebebe;
+  background-image: n#bebebe;
+  font-style: inherit;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 30px;
+  background: #e0e0e0;
+  box-shadow: 10px 10px 6px #bebebe, -10px -10px 6px #ffffff;
+
+  
+}
+
+ .card{
+  -webkit-box-shadow:0px 25px 39px 10px rgba(62,66,66,0.22);
+-moz-box-shadow: 0px 25px 39px 10px rgba(62,66,66,0.22);
+box-shadow: 0px 25px 39px 10px rgba(62,66,66,0.22);
+}
+
+.carousel-inner{
+  -webkit-box-shadow:0px 25px 39px 10px rgba(62,66,66,0.22);
+-moz-box-shadow: 0px 25px 39px 10px rgba(62,66,66,0.22);
+box-shadow: 0px 25px 39px 10px rgba(62,66,66,0.22);
+}
+
+li:hover{
+  transform: scale(1.02);
+  box-shadow: 0 0 1px 2px rgba(255, 255, 255, 0.3),
+    0 10px 30px rgba(0, 0, 0, 0.3), 0 10px 3px -3px rgba(0, 0, 0, 0.04);
+  -webkit-transform: scale(1.02);
+  -moz-transform: scale(1.02);
+  -ms-transform: scale(1.02);
+  -o-transform: scale(1.02);
+}
+button:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 1px 2px rgba(255, 255, 255, 0.3),
+    0 10px 30px rgba(0, 0, 0, 0.3), 0 10px 3px -3px rgba(0, 0, 0, 0.04);
+  -webkit-transform: scale(1.02);
+  -moz-transform: scale(1.02);
+  -ms-transform: scale(1.02);
+  -o-transform: scale(1.02);
+}
+h4 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: aqua;
+}
+
+h5{
+  justify-content: center;
+  font-style: italic;
+  font-weight: 100px;
+  70% 30% 85% 15% / 55% 69% 31% 45% 
+}
+
+
+h6{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
