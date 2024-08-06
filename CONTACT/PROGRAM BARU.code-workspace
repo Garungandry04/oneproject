@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../PROGRAM BARU"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NEWAPP"
+	}
+}
